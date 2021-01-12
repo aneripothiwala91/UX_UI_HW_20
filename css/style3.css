@@ -115,7 +115,19 @@ h4{
     color: #F7941E;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+.image1{
+    width: 80px;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: auto;
+    }
 
 /* PROJECT styles */
 
